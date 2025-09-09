@@ -1,0 +1,3440 @@
+fileFormatVersion: 2
+guid: 042fdb884f3a6ac419c1b31ed696dd10
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8855479012044831380
+    second: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_0
+  - first:
+      213: -3178781395160644863
+    second: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_1
+  - first:
+      213: 1815206785842551487
+    second: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_2
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c650423c1c40b1580800000000000000
+      internalID: -8855479012044831380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10344dab923b2e3d0800000000000000
+      internalID: -3178781395160644863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba160054f8e03910800000000000000
+      internalID: 1815206785842551487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a95849d6bc7b844490b005d322f247d
+      internalID: -819206817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81c2a6321856774c9aaee1f10879133
+      internalID: -1883556131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d6798d8c68b18469a72f9d7f0dc7eb
+      internalID: 28427447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d413cbbf093bcad4bb130f0156e41cb4
+      internalID: 417759075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c422f90d8fa57134fb4b64bb4894f422
+      internalID: 1038964843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0bbf7b64e9b84468be9bb0ded5c3f6
+      internalID: 400699453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c2f4ee07e109d44a9ae7d9b035740f
+      internalID: -589565650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594946c9468017748a54a2990bb2e25f
+      internalID: 1733156405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd7c7dc0c8899649991bde2599b6b68
+      internalID: -1206868265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6c212ba88e0f14cba0d6c4eac0125d
+      internalID: -1595237238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5638313bbd3d66e4b95763b0f574ee14
+      internalID: 1875827018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ad116635fd5864ead12ba9730225ae
+      internalID: 1273811985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fceb70b61ff874a42b4a0938e59bebc4
+      internalID: 1929176774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836df1ccac478df4e9407e47cdd32ebb
+      internalID: -428131528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbb5e1390d6ea648972e73ae1e56be0
+      internalID: -1126731795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c4bca948970e64aa6082299ca2e311
+      internalID: -1978598329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_19
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05187077ab30a6f4187a3f9d73788044
+      internalID: -1643541648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7ca3c71179bb54493d7942399b2f80
+      internalID: -910999456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_21
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64705a7a462ad2a4b8732c4d013c3704
+      internalID: -1693913659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_22
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b6b300d65655a46be5e2c507d51a13
+      internalID: 989381111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_23
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1177ccae1a9db47a59a26dc5c6379a
+      internalID: 970985724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760d17764d3b2c544978534ad0172195
+      internalID: -641441850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197cfd69e69730b4e96f0b34d2f6af83
+      internalID: 1324219864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_26
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7a5ffdabb23154eaf4b84a1b49d166
+      internalID: -2100766978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_27
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94df1e8b62f51c2429b63a5c2df9debd
+      internalID: 840563699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_28
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b077a5535702c40a60813ade1bd698
+      internalID: 1860924836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_29
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160727b8cf8d36d41a770ffd14da5cad
+      internalID: -1905250291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c3d12730d67ba4791faef4aef1e9d4
+      internalID: 347437416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4555b61b48152814b8a5abdbc99d51f9
+      internalID: -135012141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5826f9b21c88f814a8991fb4199a6c08
+      internalID: -1125315821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb1e8f49bacf2847a597c4b64998044
+      internalID: 261297067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5b4948fb21dd54b820fcf8c31d9425
+      internalID: -1357366949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a21da8bf3f10643b5b25dd07d35564
+      internalID: 201105859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f7efdd7138f9e43b7b2e32cae56fe4
+      internalID: -1805109405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825b096727af58e4195892bd75ab5d86
+      internalID: -2001243760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a5c996a19dcae48add9c2fb2f3dfbc
+      internalID: 1865390781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f65f859c9b691e4b8900290a0d75da2
+      internalID: 1616702903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_40
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455914be770d79c48af5386121b08a59
+      internalID: 1232598561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_41
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071b232086c0b244fb2be08e7aa20f9d
+      internalID: -2093969732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1938835a3ef76da4ab72042ecf886189
+      internalID: -308360176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_43
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ec4b4369eb9a04ca1776f2f1f80097
+      internalID: 2936625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_44
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d981eb167685af498d6eb1d0998661c
+      internalID: 464294307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_45
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e448e26a2cf424782369429b753cec
+      internalID: -2008344791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa8f6f3ec76ccd4d8a0ace9e57119ec
+      internalID: -896350405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_47
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd208683e3d86774b929203171d80a5e
+      internalID: -712557571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_48
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964f041eb95947e449137ccf53b8d657
+      internalID: -815802673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_49
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5127b03f43bee4747a26b13476db4b1e
+      internalID: -1083097111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_50
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac060cbb62693f46a92f6078e0a032a
+      internalID: -236021318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_51
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f20daf7f1b5cb42a3f116f0b74f3e9
+      internalID: -858050015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_52
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f819e08a54dbc48adee7d60361d19e
+      internalID: 1201854925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_53
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591f281de6b0bf24ba11177970e45769
+      internalID: 1484720255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f8e480d86790e4e8795b4a580c5e48
+      internalID: 1950846698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca89685a541aa3949b94b74c2ba99193
+      internalID: -849499298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_56
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1e63119abc80d4da22db7c13ac4897
+      internalID: -105190020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_57
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6779f7b4ce33e498c14ebda77eac80
+      internalID: -1005860196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_58
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c96ec17b6a4944d87cfad681793642
+      internalID: -305605638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_59
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b220adff14a052448a1b23efd88bbec8
+      internalID: -917294037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3b089fd49488f459400650206ccc37
+      internalID: 21909214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24647db37bb5e5e48ab788e7ee823e9e
+      internalID: -1681104701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_62
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b61de2cfe62df4cbcfad10fb31339e
+      internalID: -1946889080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_63
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a6442741bed174b88e4d2fc6f9fa22
+      internalID: -1363733989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_64
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31eefbee031e974380a57cbae7988af
+      internalID: 726012521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_65
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d47a72074d9a341abafb4b196669ac
+      internalID: 598233037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_66
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87370127451049b4c9e3395800bbfe86
+      internalID: -1253729984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_67
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807dc0b00e1906c4c80b87de6fb0bb62
+      internalID: -281149214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_68
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e2562ed10eb494e8157c936fd6f3bc
+      internalID: 1581014239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_69
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584105cd72df7f8448351d636fbdebdd
+      internalID: -131569068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_70
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51d685b15053574cb99adc0e19053d8
+      internalID: -896532260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea0913a98cdb974c9de52fc5bbbceed
+      internalID: -1410032364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_72
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d747b4668340ca438cc98689e833f43
+      internalID: -172971412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b69d4b26241e54bbb75e1c6f834fe2
+      internalID: 1263790010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_74
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875b375b462545f40b69aef4514ad537
+      internalID: -823150119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_75
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0138f9bbfa3799b419a7ef304e05ece8
+      internalID: 1379662110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_76
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2891da4b80105a49b27c5f788d9a828
+      internalID: 1397949825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_77
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b642aa975bb93684abc9c489dbafe30f
+      internalID: -1184138827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_78
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecc4458ed4575c4195caacd07fec0dd
+      internalID: 921501194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_79
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cf2e1c92c80844eb0f12b3b72bd054
+      internalID: 551805552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_80
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40f8b201b70c9540bb20ce83fe17ce4
+      internalID: 2129096283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_81
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60120d65cbe9cdb4b85f371077d563a7
+      internalID: 684322874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_82
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c106d524cfeefb542a90bd9c22a693d9
+      internalID: 1383597672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_83
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f63b85b80623d48b3c1379e22d6dd7
+      internalID: -1095958758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5844cf3c9c7090641abbdb980cf44440
+      internalID: -2144536843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_85
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd3e12564555fb4995c58b73708d3e4
+      internalID: 1074265182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_86
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1c4428387cc0f459505fc86d3cece4
+      internalID: -413930009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_87
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfce45d8e650a2459e2dc82424c731c
+      internalID: 2105927178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfaf10ab45a81a748bebd16d0d6c0129
+      internalID: -1969059376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_89
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b297c6ebc589e2b42bd77078473739cc
+      internalID: 816695765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_90
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7bfbeab576cc04a9ee861c808ae49f
+      internalID: -1616754373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_91
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1125aef97a0f134696dca09295d7b57
+      internalID: 1040050698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9845ff26f37e9d42b533fea53e59077
+      internalID: 1106157832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_93
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db50dab7f9d5aa40aad470f48156953
+      internalID: -98852005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_94
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af04e1b27bb829043bb005b579ecefa2
+      internalID: -1131099555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_95
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0741d1eac26bfc942b8464b5f569a927
+      internalID: -39332967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_96
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc4fde440b3b644a9fc7832a083a99f
+      internalID: -106287281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_97
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743e8158863bd7c4f8781a85fe05fddd
+      internalID: 381630743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_98
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18cade751f7d3d40b8cb359bbe17e1f
+      internalID: 158387498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_99
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa36d622a19e90e4d900a7760a012e54
+      internalID: 702889080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa03e6d64b46fd945938574c250043b8
+      internalID: -1647252300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_101
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bece69099891d94eba023bd64d9c06e
+      internalID: 136136494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_102
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd6b67b73605b04ba8bb03bed8a3659
+      internalID: -2030384997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_103
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ce20034e4e1b84987a95b4d6463d58
+      internalID: 255823795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_104
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0d9087589685044946e7b2e44bf461
+      internalID: 1489932924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_105
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab7cb26c2cc2494a922f24bdb5eff69
+      internalID: -1265944833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_106
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8785968ab1a95fa4bbc82019231562bb
+      internalID: 1121679966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_107
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9ab01a8958bbf4191d5a44a5df30ad
+      internalID: 661423770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04776e870d091f64e8a9a6beaaa1d515
+      internalID: 952185324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_109
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4368ac387e531454a83b3a5bff7bb85f
+      internalID: -1920057866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_110
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b265e7beea7974a89707de3856aaa4
+      internalID: -1110870693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_111
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01aeb49f96b8a6c488dbd7cb2a5aa64e
+      internalID: -782372181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_112
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a149c8c3243a4f4182f1b33ddd01127
+      internalID: -2086204651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_113
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fe9288d6b2d144d8b7ba65f52c4c90
+      internalID: 179622614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f024d65f9caa347bb66f3712e5fcce
+      internalID: -1708738745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_115
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2187b1ab2d1afbc459c63c14721c0db6
+      internalID: 1263727182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_116
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aec679f03620534bb032ecb948d6d23
+      internalID: 1782270299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_117
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab7712e5e5bad549a790f763fb442f6
+      internalID: -1973481602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_118
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05089880657fcc04f8b5cb8f405bbd55
+      internalID: 1300894857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_119
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7dba082bba66348bc7253dea808ad3
+      internalID: 2114363989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_120
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5710169ca047824469e0ce64e821cc2f
+      internalID: 605297435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_121
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb29cfbc999fae45809836c40597682
+      internalID: 1139725759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c089264e7db4b147b5c8f8da057ac88
+      internalID: -326580137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_123
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cd49c1a816ab541bcb8cd49ba53524
+      internalID: -735621517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_124
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a50735f16204a4cb1987b1dbaebaf4
+      internalID: -786156840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_125
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f67184e4cee8244a084481bd7496cd
+      internalID: -1178236299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_126
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12466ef1a8a50fb4dabe0aa0e57e6cd4
+      internalID: 1843769856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_127
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96b7c6238b6c5145b8c337858999cae
+      internalID: -1433261797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_128
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2211cc548fa702c43a8871155657fa8a
+      internalID: 1776668224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_129
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9529d94c4cd5be448174a68a62e140d
+      internalID: 1536544740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_130
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f629b7f7d82cec64e8e7d8db3ee4a103
+      internalID: -575822437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_131
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9ae7fc9183e03498f50da95fc5ab93
+      internalID: -1380623211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_132
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd27a7906143cc4f8bc21e8aeeae33c
+      internalID: 858884445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_133
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be7d7b1bd80ec94881eccd8ca920d2f
+      internalID: -1846312519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_134
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f3a1a6257a1134093a9eb6b6ceaf13
+      internalID: -1734668192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_135
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a73131c68b68844a2f648d5e74ff69
+      internalID: 1620605185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_136
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c37e69918eb044c85f686ddb0f7e52
+      internalID: 2092935312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_137
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1db9674a3bd2344b06795e15e5a491
+      internalID: -932256991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_138
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e0dfbe0d7cefe44af890bafc69792d
+      internalID: -1646415173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_139
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fc8357372814044bbeb0c26bb7c70d
+      internalID: 846738637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_140
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c29528bcbb6e83459b92245da8f1293
+      internalID: -1557768261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_141
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03544edfbf29684689f3e4d3d89a51a
+      internalID: 1041153182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_142
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0b611e3c27c364a8e4fa2530f8f451
+      internalID: 1701379320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_143
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b474322c2b9adbf47a918ab9dc922ab6
+      internalID: 1827374379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cc994c4d599e64d40af0e75541631a09
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":16.0,"y":11.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_0: -8855479012044831380
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_1: -3178781395160644863
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_10: 1733156405
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_100: -1647252300
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_101: 136136494
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_102: -2030384997
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_103: 255823795
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_104: 1489932924
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_105: -1265944833
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_106: 1121679966
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_107: 661423770
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_108: 952185324
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_109: -1920057866
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_11: -1206868265
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_110: -1110870693
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_111: -782372181
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_112: -2086204651
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_113: 179622614
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_114: -1708738745
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_115: 1263727182
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_116: 1782270299
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_117: -1973481602
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_118: 1300894857
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_119: 2114363989
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_12: -1595237238
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_120: 605297435
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_121: 1139725759
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_122: -326580137
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_123: -735621517
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_124: -786156840
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_125: -1178236299
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_126: 1843769856
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_127: -1433261797
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_128: 1776668224
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_129: 1536544740
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_13: 1875827018
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_130: -575822437
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_131: -1380623211
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_132: 858884445
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_133: -1846312519
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_134: -1734668192
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_135: 1620605185
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_136: 2092935312
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_137: -932256991
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_138: -1646415173
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_139: 846738637
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_14: 1273811985
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_140: -1557768261
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_141: 1041153182
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_142: 1701379320
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_143: 1827374379
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_15: 1929176774
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_16: -428131528
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_17: -1126731795
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_18: -1978598329
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_19: -1643541648
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_2: 1815206785842551487
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_20: -910999456
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_21: -1693913659
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_22: 989381111
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_23: 970985724
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_24: -641441850
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_25: 1324219864
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_26: -2100766978
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_27: 840563699
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_28: 1860924836
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_29: -1905250291
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_3: -819206817
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_30: 347437416
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_31: -135012141
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_32: -1125315821
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_33: 261297067
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_34: -1357366949
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_35: 201105859
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_36: -1805109405
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_37: -2001243760
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_38: 1865390781
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_39: 1616702903
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_4: -1883556131
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_40: 1232598561
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_41: -2093969732
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_42: -308360176
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_43: 2936625
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_44: 464294307
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_45: -2008344791
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_46: -896350405
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_47: -712557571
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_48: -815802673
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_49: -1083097111
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_5: 28427447
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_50: -236021318
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_51: -858050015
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_52: 1201854925
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_53: 1484720255
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_54: 1950846698
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_55: -849499298
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_56: -105190020
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_57: -1005860196
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_58: -305605638
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_59: -917294037
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_6: 417759075
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_60: 21909214
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_61: -1681104701
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_62: -1946889080
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_63: -1363733989
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_64: 726012521
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_65: 598233037
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_66: -1253729984
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_67: -281149214
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_68: 1581014239
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_69: -131569068
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_7: 1038964843
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_70: -896532260
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_71: -1410032364
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_72: -172971412
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_73: 1263790010
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_74: -823150119
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_75: 1379662110
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_76: 1397949825
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_77: -1184138827
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_78: 921501194
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_79: 551805552
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_8: 400699453
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_80: 2129096283
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_81: 684322874
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_82: 1383597672
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_83: -1095958758
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_84: -2144536843
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_85: 1074265182
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_86: -413930009
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_87: 2105927178
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_88: -1969059376
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_89: 816695765
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_9: -589565650
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_90: -1616754373
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_91: 1040050698
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_92: 1106157832
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_93: -98852005
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_94: -1131099555
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_95: -39332967
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_96: -106287281
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_97: 381630743
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_98: 158387498
+      Bridge can be used as a tile or as an object if tiles 16x16 if not 160x80_99: 702889080
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
