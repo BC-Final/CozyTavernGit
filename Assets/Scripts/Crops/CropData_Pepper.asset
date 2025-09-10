@@ -12,8 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4d8353b89da316f4583a45a247c00616, type: 3}
   m_Name: CropData_Pepper
   m_EditorClassIdentifier: Assembly-CSharp::CropData
-  sprites: []
-  altSprites: []
-  spriteDuration: 
-  regrowing: 0
-  regrowStage: 0
+  _sprites:
+  - Sprites:
+    - {fileID: -6874923385740900845, guid: dd565bf10128ca847a066e316cb20421, type: 3}
+    - {fileID: 2552789173863643063, guid: dd565bf10128ca847a066e316cb20421, type: 3}
+    - {fileID: 5162883819265898121, guid: dd565bf10128ca847a066e316cb20421, type: 3}
+    - {fileID: -2345990402605930030, guid: dd565bf10128ca847a066e316cb20421, type: 3}
+  - Sprites:
+    - {fileID: -3088027324827236352, guid: dd565bf10128ca847a066e316cb20421, type: 3}
+    - {fileID: -3024777531569318220, guid: dd565bf10128ca847a066e316cb20421, type: 3}
+    - {fileID: -2088476897449950238, guid: dd565bf10128ca847a066e316cb20421, type: 3}
+    - {fileID: 8290851369493155362, guid: dd565bf10128ca847a066e316cb20421, type: 3}
+  _growthStageDuration: 030000000300000002000000
+  _isRegrowing: 0
+  _regrowSpriteIndex: 0

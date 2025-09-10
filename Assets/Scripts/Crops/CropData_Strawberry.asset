@@ -12,8 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4d8353b89da316f4583a45a247c00616, type: 3}
   m_Name: CropData_Strawberry
   m_EditorClassIdentifier: Assembly-CSharp::CropData
-  sprites: []
-  altSprites: []
-  spriteDuration: 
-  regrowing: 0
-  regrowStage: 0
+  _sprites:
+  - Sprites:
+    - {fileID: -7231743219743950043, guid: 95b5af2c81d49d24b8d2b611234e0157, type: 3}
+    - {fileID: -5435542562941508285, guid: dd565bf10128ca847a066e316cb20421, type: 3}
+    - {fileID: -4108895752433669287, guid: dd565bf10128ca847a066e316cb20421, type: 3}
+    - {fileID: 7818042219243496233, guid: dd565bf10128ca847a066e316cb20421, type: 3}
+    - {fileID: 7591634665051515879, guid: dd565bf10128ca847a066e316cb20421, type: 3}
+  _growthStageDuration: 02000000020000000300000002000000
+  _isRegrowing: 1
+  _regrowSpriteIndex: 2

@@ -12,3 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4d8353b89da316f4583a45a247c00616, type: 3}
   m_Name: CropData_Potato
   m_EditorClassIdentifier: Assembly-CSharp::CropData
+  _sprites:
+  - Sprites:
+    - {fileID: -7231743219743950043, guid: 95b5af2c81d49d24b8d2b611234e0157, type: 3}
+    - {fileID: 677928135486654702, guid: dd565bf10128ca847a066e316cb20421, type: 3}
+    - {fileID: -42194006358214025, guid: dd565bf10128ca847a066e316cb20421, type: 3}
+    - {fileID: -7443927425486068700, guid: dd565bf10128ca847a066e316cb20421, type: 3}
+    - {fileID: 6981241182964783259, guid: dd565bf10128ca847a066e316cb20421, type: 3}
+  _growthStageDuration: 02000000020000000300000003000000
+  _isRegrowing: 0
+  _regrowSpriteIndex: 0
